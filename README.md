@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cg-chandan
+- 👋 Hi, I’m Chandan
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning HTML,CSS,Javascript,React,Java,MongoDB
 - 💞️ I’m looking to collaborate on Open souce projects
