@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chandan
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML,CSS,Javascript,React,Java,MongoDB
+- 👀 I’m interested in Web development and testing
+- 🌱 I’m currently learning Java,Selenium
 - 💞️ I’m looking to collaborate on Open souce projects
 - 📫 How to reach me (https://www.linkedin.com/in/chandanchandu/)
 
